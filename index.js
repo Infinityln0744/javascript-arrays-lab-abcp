@@ -1,5 +1,5 @@
-function destructivelyAppendKitten(Milo,Otis,Garfield){
-  kittles.push(Milo,Otis,Garfield);
+function destructivelyAppendKitten(name){
+  kittles.push(name);
   return kittens;
 }
 
