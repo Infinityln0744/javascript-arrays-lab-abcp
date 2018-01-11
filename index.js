@@ -9,4 +9,7 @@ function destructivelyPrependKitten(name){
 function destructivelyRemoveLastKitten(){
 }
 
-function 
+function destructivelyRemoveFirstKitten(){
+}
+
+function
