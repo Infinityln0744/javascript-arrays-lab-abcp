@@ -1,4 +1,6 @@
 function destructivelyAppendKitten(Milo,Otis,Garfield){
+  kittles.push(Milo,Otis,Garfield);
+  return kittens;
 }
 
 function destructivelyPrependKitten(Milo,Otis,Garfield){
