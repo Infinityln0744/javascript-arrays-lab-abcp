@@ -1,4 +1,4 @@
-var animals = {"Milo", "Otis", "Garfield"};
+var animals = { kittens:"Milo", "Otis", "Garfield"};
 
 function destructivelyAppendKitten(){
 }
