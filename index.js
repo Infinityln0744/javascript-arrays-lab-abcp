@@ -1,6 +1,6 @@
 function destructivelyAppendKitten(name){
   kittles.push(name);
-  return kittens;
+  return kitten;
 }
 
 function destructivelyPrependKitten(Milo,Otis,Garfield){
