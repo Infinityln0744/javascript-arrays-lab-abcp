@@ -4,6 +4,8 @@ function destructivelyAppendKitten(name){
 }
 
 function destructivelyPrependKitten(name){
+  kittens.unshift(name);
+  return kittlens;
 }
 
 function destructivelyRemoveLastKitten(){
@@ -12,10 +14,10 @@ function destructivelyRemoveLastKitten(){
 function destructivelyRemoveFirstKitten(){
 }
 
-function appendKitten(Milo,Otis,Garfield){
+function appendKitten(name){
 }
 
-function prependKitten(Milo,Otis,Garfield){
+function prependKitten(name){
 }
 
 function removeLastKitten(){
