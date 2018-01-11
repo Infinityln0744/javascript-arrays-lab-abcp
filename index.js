@@ -1,4 +1,4 @@
-function destructivelyAppendKitten("Milo", "Otis", "Garfield"){
+function destructivelyAppendKitten(Milo,Otis,Garfield){
 }
 
 function destructivelyPrependKitten(){
