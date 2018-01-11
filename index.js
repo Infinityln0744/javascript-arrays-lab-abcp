@@ -1,7 +1,7 @@
-function destructivelyAppendKitten(name){
+function destructivelyAppendKitten(){
 }
 
-function destructivelyPrependKitten(name){
+function destructivelyPrependKitten(){
 }
 
 function destructivelyRemoveLastKitten(){
@@ -10,10 +10,10 @@ function destructivelyRemoveLastKitten(){
 function destructivelyRemoveFirstKitten(){
 }
 
-function appendKitten(name){
+function appendKitten(){
 }
 
-function prependKitten(name){
+function prependKitten(){
 }
 
 function removeLastKitten(){
