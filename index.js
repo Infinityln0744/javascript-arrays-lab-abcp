@@ -1,5 +1,4 @@
 function destructivelyAppendKitten(Milo,Otis,Garfield){
-  push()
 }
 
 function destructivelyPrependKitten(){
