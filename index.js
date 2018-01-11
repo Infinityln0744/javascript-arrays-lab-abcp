@@ -1,4 +1,4 @@
-var kittens{name
+var kittens 
 function destructivelyAppendKitten(){
 }
 
