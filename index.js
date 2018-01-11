@@ -1,7 +1,7 @@
 function destructivelyAppendKitten(Milo,Otis,Garfield){
 }
 
-function destructivelyPrependKitten(){
+function destructivelyPrependKitten(Milo,Otis,Garfield){
 }
 
 function destructivelyRemoveLastKitten(){
@@ -10,10 +10,10 @@ function destructivelyRemoveLastKitten(){
 function destructivelyRemoveFirstKitten(){
 }
 
-function appendKitten(){
+function appendKitten(Milo,Otis,Garfield){
 }
 
-function prependKitten(){
+function prependKitten(Milo,Otis,Garfield){
 }
 
 function removeLastKitten(){
