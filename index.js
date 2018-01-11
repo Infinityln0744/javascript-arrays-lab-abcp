@@ -10,7 +10,7 @@ function destructivelyPrependKitten(name){
 
 function destructivelyRemoveLastKitten(){
   kittens.unshift(name);
-  retuen kittens
+  return kittens;
 }
 
 function destructivelyRemoveFirstKitten(){
